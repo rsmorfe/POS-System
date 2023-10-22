@@ -1,2 +1,2 @@
 # POS-System
-A POS System (for touch screens type of POS) with Inventory Management
+A POS System (for touch screen type of POS) with Inventory Management
